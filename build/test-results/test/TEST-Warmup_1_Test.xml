@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Warmup_1_Test" tests="66" skipped="0" failures="0" errors="0" timestamp="2020-04-13T00:53:11" hostname="MacBook-Pro.local" time="0.016">
+  <properties/>
+  <testcase name="startOz_1" classname="Warmup_1_Test" time="0.001"/>
+  <testcase name="startOz_2" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="startOz_3" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="backAround1" classname="Warmup_1_Test" time="0.001"/>
+  <testcase name="backAround2" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="backAround3" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="sumDouble1" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="sumDouble2" classname="Warmup_1_Test" time="0.001"/>
+  <testcase name="sumDouble3" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="in1020_1" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="in1020_2" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="in1020_3" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="front3_1" classname="Warmup_1_Test" time="0.001"/>
+  <testcase name="front3_2" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="front3_3" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="missingChar1" classname="Warmup_1_Test" time="0.001"/>
+  <testcase name="missingChar2" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="missingChar3" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="or35_1" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="or35_2" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="or35_3" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="nearHundred1" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="nearHundred2" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="nearHundred3" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="posNeg1" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="posNeg2" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="posNeg3" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="frontBack1" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="frontBack2" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="frontBack3" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="diff21_1" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="diff21_2" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="diff21_3" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="monkeyTrouble1" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="monkeyTrouble2" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="monkeyTrouble3" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="loneTeen1" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="loneTeen2" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="loneTeen3" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="front22_1" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="front22_2" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="front22_3" classname="Warmup_1_Test" time="0.001"/>
+  <testcase name="hasTeen1" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="hasTeen2" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="hasTeen3" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="notString1" classname="Warmup_1_Test" time="0.001"/>
+  <testcase name="notString2" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="notString3" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="makes10_1" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="makes10_2" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="makes10_3" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="startHi1" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="startHi2" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="startHi3" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="delDel1" classname="Warmup_1_Test" time="0.001"/>
+  <testcase name="delDel2" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="delDel3" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="icyhot1" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="icyhot2" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="icyhot3" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="sleepInTrue1" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="sleepInTrue2" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="sleepInTrue3" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="mixStart_1" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="mixStart_2" classname="Warmup_1_Test" time="0.0"/>
+  <testcase name="mixStart_3" classname="Warmup_1_Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
